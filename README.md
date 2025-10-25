@@ -10,7 +10,7 @@ Each agent demonstrates a unique real-world use case — from research automatio
 | Folder | Description |
 |--------|--------------|
 | **academic_research_assistant** | AI-powered literature review assistant that analyzes and synthesizes academic papers to produce detailed research summaries. |
-| **hotel-agent-app** | Intelligent travel planner that retrieves hotel, flight, and itinerary information using MCP Toolbox and ADK. |
+| **travel-agent-app** | Intelligent travel planner that retrieves hotel, flight, and itinerary information using MCP Toolbox and ADK. |
 | **personal-assistant** | Multi-tool productivity agent that manages reminders, schedules, and general assistant functions. |
 | **renovation-agent** | Home renovation planning agent that generates formatted PDF proposals and project cost breakdowns. |
 
@@ -21,20 +21,32 @@ Zipped archives of each project are provided for easier download and offline use
 
 ## 🚀 Project Summaries  
 
-### Academic Research Assistant 🎓  
+### Academic Research Assistant 🎓 
+[Github Repo Link](https://github.com/Sri-Krishna-V/awesome-adk-agents)
+
+
 A multi-agent ADK system designed for academic literature exploration.  
 It extracts keywords from public profiles, searches multiple databases (Google Scholar, arXiv, PubMed), and compiles annotated bibliographies with relevance scores, thematic overlaps, and research gap identification.  
 
-### Hotel Agent App 🏨  
+### Travel Agent App 🏨 
+[Codelab Link](https://codelabs.developers.google.com/travel-agent-mcp-toolbox-adk)
+
+
 An ADK + MCP Toolbox-based travel agent that integrates with SQL databases to plan personalized trips.  
 It retrieves and organizes hotel and flight data, enabling itinerary creation and real-time query handling.  
 
-### Personal Assistant 💬  
-A conversational assistant that integrates APIs for managing calendar events, reminders, and user notes.  
+### Personal Assistant 💬
+[Codelab Link](https://codelabs.developers.google.com/devsite/codelabs/build-agents-with-adk-empowering-with-tools)
+
+
+A conversational assistant that integrates APIs for currency exchange, LangChains Wiki agent.  
 It demonstrates tool orchestration and natural interaction workflows through ADK’s multi-tool framework.  
 
-### Renovation Agent 🏗️  
-A project estimation and proposal-generation agent.  
+### Renovation Agent 🏗️ 
+[Codelab Link](https://codelabs.developers.google.com/your-first-agent-with-adk)
+
+
+A project estimation and proposal-generation agent.
 It helps contractors or clients produce professional renovation reports, contracts, and PDF documents automatically.  
 
 ---
